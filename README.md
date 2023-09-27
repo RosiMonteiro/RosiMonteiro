@@ -1,12 +1,8 @@
 
-🌷 Neste espaço você poderá me conhecer melhor, meus hobbies, meus projetos e o que estou estudando atualmente 📖
-👩🏽Supervisora ​​Logística pela Magazine Luiza.
-👩🏽‍💻Em busca de uma transição de carreira para área de tecnologia.
-💡 Estudante de Análise e Desenvolvimento de Sistema da Faculdade SENAC em Pernambuco.
-🌱 Atualmente estou aprendendo Spring Boot.
-☺ Pronomes:ela/dela
-
-<!---
-RosiMonteiro/RosiMonteiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+@@ -24,7 +24,7 @@
+</a>
+</div>
+<div style="display: inline_block"><br>
+  <img align="right" alt="Rosi-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Rosi" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+</div>
